@@ -1,0 +1,13 @@
+p {
+	font-style: italic;
+	Background-color: orange;
+	font-size: medium;
+	text-align: center;
+	font-weight: bold;
+}
+.MyParagraph {
+	color: white;
+}
+h1 {
+	text-shadow: 2px 2px #ff0000;
+}
